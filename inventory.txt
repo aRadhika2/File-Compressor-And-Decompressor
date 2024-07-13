@@ -1,0 +1,37 @@
+TDR
+Abstract:
+Time Domain Reflectometry (TDR) is a non-destructive technique used to measure soil properties such as moisture content and density. This method involves sending an electromagnetic pulse through a waveguide, like a probe inserted into the soil, and analyzing the reflected signal. TDR provides precise and accurate measurements, adaptable to various soil types and conditions. The setup includes a rod probe sensor in a calibration box, connected via coaxial cable to a TDR device and a computer. The TDR device generates a signal that travels through the cable and probe, reflecting back due to impedance mismatches. The travel time of the wave is measured to calculate soil permittivity, which correlates with water content. This method ensures detailed, reliable soil analysis without altering the soil's natural state.
+
+
+Methodology:
+To study the behavior of the soil, several tests have been conducted adhering to the relevant codal provisions.
+
+Specific Gravity
+As per the Indian Standard IS 2720 Part 3, the specific gravity of soil (particles less than 4.75mm) is determined by the pycnometer method. In this method, a known mass of dry soil is placed in a pycnometer, and its weight in air and in water is measured. Care has been taken to ensure that the soil sample is free from organic matter, roots, and other extraneous materials.[]
+
+Particle Size Analysis
+The standard wet sieving method uses a steel sieve to separate gravels and sands larger than 0.075 mm, washing away silt and clay. This method yields highly accurate, verifiable results. [Blaud] After wet sieving, particles retained on the 0.075 mm sieve undergo dry sieving to further separate gravel and sand into different sizes. [Ma] Sedimentation analysis, per IS 2720 part 4, is used for particles passing through the 75-micron sieve, conducted at 34°C with Sodium Hexametaphosphate as a dispersing agent, with corrections applied for meniscus, temperature, and dispersing agent. 
+
+Liquid Limit
+As per the Indian Standard IS 2720 Part 5, Place the soil paste in the cone penetrometer apparatus and allow the cone to penetrate the soil under its own weight. Record the penetration depth at different moisture contents and determine the liquid limit where the cone penetrates 22 mm into the soil.
+
+Plastic Limit
+As per the Indian Standard IS 2720 Part 5,Roll a soil paste into threads of 3 mm diameter until it crumbles, then determine the moisture content of the crumbled soil.[]
+
+
+Standard Compaction
+As per the Indian Standard IS 2720 Part 7,Prepare a soil sample Compact it in a standard Proctor mold in three layers, each layer receiving 25 blows from a 2.6 kg rammer dropped from a height of 310 mm. Measure the dry density of each compacted sample and determine the optimum moisture content by plotting the dry density against moisture content.
+
+
+ Results and discussion
+•	The value of the specific gravity of soil was obtained to be 2.56 ± 0.01. According to this value,the soil can be classified as clean sand,gravel,silt,or silty sand.[Ranjan] Furthermore, this value was used to compute the unit weights of the soils in the later parts.
+•	Grain size distribution results, along with the key parameters that define the shape and gradation of the geomaterials, are presented in Table 1. The wet sieve analysis and sedimentation analysis showed that the soil consists of 97.2% fine-grained particles. Based on the values obtained for Cu and Cc, and the curve shown in Figure 1, the soil can be classified as well-graded.[Ranjan]
+
+Table 1. Parameters from their grain size analysis
+D60(mm)	0.055	Cu	13.75	%gravel(>4.75mm)	0.86
+D30(mm)	0.015			%sand(4.75-0.075)	1.94
+D10(mm)	0.004	Cc	1.022727273	%silt(0.075-0.002)	92.33
+D50(mm)	0.035			%clay(<0.002)	4.87
+
+•	Presence of fines observed in the grain size distribution due to which liquid limit and plastic limit test was conducted. The results of liquid limit and plastic limit are presented below. This is attributed to the higher fines content, signifying its higher plasticity and compressibility.
+•	Liquid limit moisture content was obtained to be 27.8% which signifies soil as low compressibility.[Arora] Plastic limit moisture content was obtained to be 19.5%.According to value of liquid limit moisture content and plastic limit moisture content,Plasticity Index was calculated,which was found to be 8.3%.According to value of Plasticity Index,soil can classify as medium plastic soil.[Arora] Furthermore value of Plasticity Index were used to classify the soil as per Plasticity chart.
